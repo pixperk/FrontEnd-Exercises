@@ -97,6 +97,9 @@ html, body {
 #icons i{
     background-color:#000;
     color: #fff;
-    padding: 7px;
+    padding: 10px;
     font-size: 25px;
+    border-radius: 50px;
+    margin-right: 10px;
+
 }
